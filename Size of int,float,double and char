@@ -1,0 +1,12 @@
+#include<iostream> 
+using namespace std;  
+int main 
+{  
+  count<<"size of char:"<<size of (char)<<"byte"<<endl;
+   
+   count<<"size of int:"<<size of (int)<<"byte"<<endl; 
+   count<<"size of float:"<<size of (float)<<"byte"<<endl;
+   count<<"size of double:"<<size of (double)<<"byte"<<endl;
+
+
+}
